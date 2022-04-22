@@ -1,0 +1,2 @@
+cd /d "C:\Users\Baron\Desktop\My Documents\My Program\Windows\C++\实用程序\myUndervolt v1.0\myUndervolt v1.0" &msbuild "myUndervolt v1.0.vcxproj" /t:sdvViewer /p:configuration="Debug" /p:platform=Win32
+exit %errorlevel% 
